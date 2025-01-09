@@ -1,0 +1,17 @@
+.DS_Store
+Thumbs.db
+
+.combined-go.sum
+.tools/
+.idea/
+.vscode/
+*.iml
+*.so
+coverage.*
+
+/example/metric/collector/metrics
+/example/metric/collector/collector
+/example/metric/sdk/metrics
+/example/metric/sdk/sdk
+go.work
+go.work.sum
